@@ -1,2 +1,4 @@
 fastmcp
 uvicorn
+fastapi
+setuptools==78.1.1
